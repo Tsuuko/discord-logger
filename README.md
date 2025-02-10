@@ -2,7 +2,7 @@
 
 A simple tool that sends text received from standard input to a Discord Webhook.
 
->[!CAUTION]
+>[!IMPORTANT]
 > Some antivirus software might flag this tool as suspicious due to its network communication capabilities.
 > This is a false positive - the source code is open and you can verify its safety.
 > If you have concerns, please review the code before using the tool.
